@@ -25,11 +25,6 @@ If you're not familiar with floating in CSS, you might need to take time to read
 * [A Step-by-Step Float Tutorial][]
 * [Simple 2 column CSS layout][]
 
-CSS is fun and really powerful.  It takes a bit to get a handle on selectors
-and their cascading interaction, but the engineers who master it are treated
-with awe and reverence.
-
-
 ## Releases
 
 ### Release 0
